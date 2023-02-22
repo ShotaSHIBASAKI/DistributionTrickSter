@@ -22,3 +22,6 @@ This file provides the codes and maps that show distributions of real and tricks
 
 ## AnalysisNote8.pdf
 This file vizualizes the results of permutation tests where we tested whether the trickster animals randomly exist on places that corresponding real animals were observedor trickster animals were clogged. In the manuscript, we cannot provide theses figures due to the regulations of a submitted journal.
+
+## Analysis_Python
+This jupyter notebook provides python codes that we used in the analysis.
