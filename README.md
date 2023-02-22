@@ -16,3 +16,9 @@ Need to be summarize and remove JP
 
 ## Biome_distributions.csv
 This file summarize hex grid and their climate data where either real animals (RA) of trickster animals (TS) exist. The category of the animals is also showmn.
+
+## AnalysisNote6.pdf
+This file provides the codes and maps that show distributions of real and trickster animals over the world.
+
+## AnalysisNote8.pdf
+This file vizualizes the results of permutation tests where we tested whether the trickster animals randomly exist on places that corresponding real animals were observedor trickster animals were clogged.
