@@ -196,6 +196,71 @@ hex_index,Annu_Mean_Temp,Annu_Prec,Species,index
 81adbffffffffff,20.301564534505207,144.0,badger,RA
 81bc7ffffffffff,15.42791748046875,551.0,badger,RA
 81bcfffffffffff,14.098810831705729,565.0,badger,RA
+81543ffffffffff,29.9393310546875,165.0,ground squirrel,TS
+81583ffffffffff,28.285024007161457,407.0,ground squirrel,TS
+81587ffffffffff,28.305221557617188,171.0,ground squirrel,TS
+8158fffffffffff,27.3956298828125,1433.0,ground squirrel,TS
+817abffffffffff,26.35556393577939,187.875,ground squirrel,TS
+81207ffffffffff,2.6944071451822915,333.0,ground squirrel,RA
+8120bffffffffff,8.849878946940104,694.0,ground squirrel,RA
+8121bffffffffff,12.800313313802084,101.0,ground squirrel,RA
+81247ffffffffff,2.258611043294271,152.0,ground squirrel,RA
+8125bffffffffff,4.444040934244792,137.0,ground squirrel,RA
+812cfffffffffff,16.817850748697918,612.0,ground squirrel,RA
+8131bffffffffff,8.933125813802084,480.0,ground squirrel,RA
+81347ffffffffff,18.42914775824531,255.3839755559328,ground squirrel,RA
+81383ffffffffff,16.29467264811198,256.0,ground squirrel,RA
+81387ffffffffff,14.597218831380207,316.0,ground squirrel,RA
+8138fffffffffff,23.95745849609375,20.0,ground squirrel,RA
+81393ffffffffff,15.110875447591146,635.0,ground squirrel,RA
+81397ffffffffff,12.564028730832588,743.5497515764043,ground squirrel,RA
+8139bffffffffff,16.78931203695533,345.06786608972897,ground squirrel,RA
+813e3ffffffffff,22.385060628255207,6.0,ground squirrel,RA
+813f7ffffffffff,16.13263126144055,641.3008898776418,ground squirrel,RA
+81437ffffffffff,17.110931396484375,157.0,ground squirrel,RA
+8152bffffffffff,22.263081868489586,759.0,ground squirrel,RA
+8152fffffffffff,25.6518522902756,231.46275862068964,ground squirrel,RA
+81537ffffffffff,25.78783162434896,78.0,ground squirrel,RA
+81543ffffffffff,29.9393310546875,165.0,ground squirrel,RA
+81547ffffffffff,27.131601969401043,886.0,ground squirrel,RA
+8154bffffffffff,26.05751039990833,673.1151525036698,ground squirrel,RA
+8154fffffffffff,27.418352041913856,1695.799819952533,ground squirrel,RA
+81557ffffffffff,28.47424825032552,47.0,ground squirrel,RA
+81583ffffffffff,28.285024007161457,407.0,ground squirrel,RA
+81587ffffffffff,28.305221557617188,171.0,ground squirrel,RA
+8158bffffffffff,26.432322184244796,1094.0,ground squirrel,RA
+8158fffffffffff,27.3956298828125,1433.0,ground squirrel,RA
+81593ffffffffff,28.233545939127605,49.0,ground squirrel,RA
+81597ffffffffff,25.310353597005207,18.0,ground squirrel,RA
+8159bffffffffff,28.72100321451823,427.0,ground squirrel,RA
+8164bffffffffff,25.786387125651043,939.0,ground squirrel,RA
+81673ffffffffff,22.595894229642678,1646.6310299869622,ground squirrel,RA
+816a3ffffffffff,25.38714599609375,1275.0,ground squirrel,RA
+816a7ffffffffff,26.47902425130208,1026.0,ground squirrel,RA
+816abffffffffff,24.88519287109375,1908.0,ground squirrel,RA
+816afffffffffff,21.22642517089844,1150.0,ground squirrel,RA
+816b3ffffffffff,25.141977945963543,319.0,ground squirrel,RA
+816b7ffffffffff,27.419474283854168,215.0,ground squirrel,RA
+816bbffffffffff,25.85406494140625,1142.0,ground squirrel,RA
+81743ffffffffff,26.0905022999597,1469.6363636363635,ground squirrel,RA
+81753ffffffffff,26.207977294921875,1060.0,ground squirrel,RA
+81757ffffffffff,27.298313335343902,761.4312638580931,ground squirrel,RA
+8175bffffffffff,25.669687906901043,2905.0,ground squirrel,RA
+817a7ffffffffff,24.960245768229168,449.0,ground squirrel,RA
+817afffffffffff,28.198130289713543,389.0,ground squirrel,RA
+817b7ffffffffff,24.912372390807693,1026.848566842467,ground squirrel,RA
+8182fffffffffff,24.6420854590405,2606.8240963855424,ground squirrel,RA
+818e7ffffffffff,15.733821044085174,415.7818937164618,ground squirrel,RA
+81967ffffffffff,19.436106363932293,883.0,ground squirrel,RA
+8196bffffffffff,21.05224609375,512.0,ground squirrel,RA
+81973ffffffffff,23.238683064778645,666.0,ground squirrel,RA
+81977ffffffffff,24.17844645182292,265.0,ground squirrel,RA
+8197bffffffffff,24.398757934570312,774.0,ground squirrel,RA
+81acbffffffffff,21.87835693359375,326.0,ground squirrel,RA
+81ad3ffffffffff,16.89890129025243,427.72556295992166,ground squirrel,RA
+81adbffffffffff,20.301564534505207,144.0,ground squirrel,RA
+81bc7ffffffffff,15.42791748046875,551.0,ground squirrel,RA
+81bcfffffffffff,14.098810831705729,565.0,ground squirrel,RA
 810e3ffffffffff,-6.589711507161458,356.0,hawk,TS
 810fbffffffffff,-13.831324259440104,264.0,hawk,TS
 81277ffffffffff,5.004984537760417,786.0,hawk,TS
