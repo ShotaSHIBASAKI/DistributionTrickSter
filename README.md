@@ -11,7 +11,7 @@ Some data missing the climate data, if, for example,  the GPS points at small is
 This files summarize the hex grids where atleast one corresponding real animals is observed and average climate data in each grid. 
 The first two columns show from which GPS data we obtained the hex grids.
 
-## gbif file
+## For_gbif_trickster.csv
 This file is used to match common and scientific names of animals. See also Supporting data.xlsx, which is a human-frinedly vesion file.
 
 ## Biome_distributions.csv
