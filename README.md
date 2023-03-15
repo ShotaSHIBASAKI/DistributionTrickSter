@@ -1,5 +1,6 @@
 # DistributionTrickSter
-Data and codes of Shibasaki et al (xxx) analyzing the distributions of trickster animals and real animals.
+Data and codes of Shibasaki et al (2023) analyzing the distributions of trickster animals and real animals.
+The preprint will be available from EcoevoRxiv.
 
 
 ## TrickSter_data3.csv
