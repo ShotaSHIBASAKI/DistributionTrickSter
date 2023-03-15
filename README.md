@@ -12,7 +12,7 @@ This files summarize the hex grids where atleast one corresponding real animals 
 The first two columns show from which GPS data we obtained the hex grids.
 
 ## gbif file
-Need to be summarize and remove JP
+This file is used to match common and scientific names of animals. See also Supporting data.xlsx, which is a human-frinedly vesion file.
 
 ## Biome_distributions.csv
 This file summarize hex grid and their climate data where either real animals (RA) of trickster animals (TS) exist. The category of the animals is also showmn.
