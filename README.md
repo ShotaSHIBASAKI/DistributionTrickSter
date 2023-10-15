@@ -26,3 +26,7 @@ This file vizualizes the results of permutation tests where we tested whether th
 
 ## Analysis_Python
 This jupyter notebook provides python codes that we used in the analysis.
+
+
+## HighResolution_data_analysis
+This folder contains the data and source codes to analyze them when we increase the resolution of the hex grids (see supplemental data of the manuscript)
