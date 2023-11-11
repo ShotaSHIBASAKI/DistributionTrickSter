@@ -7,6 +7,7 @@ The preprint will be available from EcoevoRxiv.
 This files contain the GPS data, categories of animals, climate data, correspinding hex grids, 
 whether correpsonding real animals exist or not in the grids, and the normalized climate data of each tricksters.
 Some data missing the climate data, if, for example,  the GPS points at small islands.
+TrickSter_data4.csv corresponds to the data with high resolution of the grid
 
 ## Real_annimal_hex_biome.csv
 This files summarize the hex grids where atleast one corresponding real animals is observed and average climate data in each grid. 
@@ -24,9 +25,17 @@ This file provides the codes and maps that show distributions of real and tricks
 ## AnalysisNote8.pdf
 This file vizualizes the results of permutation tests where we tested whether the trickster animals randomly exist on places that corresponding real animals were observedor trickster animals were clogged. In the manuscript, we cannot provide theses figures due to the regulations of a submitted journal.
 
+# AnalysisNote9R.pdf
+This file vizualizes the distributions of trickster and real animals over Whitakker biome.
+
 ## Analysis_Python
 This jupyter notebook provides python codes that we used in the analysis.
 
+## Analysis_R
+This jupyter notebook provides R codes that we used in the analysis.
 
-## HighResolution_data_analysis
+## Supporting data
+Common and scientific names of animals analyzed in the manuscript. 
+
+## HighResolution_Data_analysis
 This folder contains the data and source codes to analyze them when we increase the resolution of the hex grids (see supplemental data of the manuscript)
