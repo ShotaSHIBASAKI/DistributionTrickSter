@@ -37,5 +37,8 @@ This jupyter notebook provides R codes that we used in the analysis.
 ## Supporting data
 Common and scientific names of animals analyzed in the manuscript. 
 
-## HighResolution_Data_analysis
-This folder contains the data and source codes to analyze them when we increase the resolution of the hex grids (see supplemental data of the manuscript)
+## high_resoplution_analysis.py high_resoliution _analysis2.py
+These two python codes were used to obtain the data and perform analysis with high resolution of grids in h3 package
+
+## addtional analysis_R.ipynb additional_analysis_python,ipynb
+These notebook explain the detail of analysis with high resolution of grid in h3 package.
